@@ -1,0 +1,35 @@
+/* here's how to do a comment */
+body{
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    background-image: url(pexels-photo-951240.jpeg);
+    background-repeat: repeat;
+}
+h1{
+    color: #3894fc;
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 1px; 
+}
+#first{
+    color: #7B68EE;
+    font-weight: bold;
+}
+#second{
+    color: #0000FF;
+}
+#headshot{
+    width: 250px;
+    border-color: #3894fc;
+    border-style: dashed; 
+    border-width: 4px;
+}
+#apple{
+    width: 140px;
+}
+p.tacos{
+    color: yellow;
+}
+a:visited{
+    color: #7B68EE;
+}
