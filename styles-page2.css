@@ -6,20 +6,22 @@ a.navbar-brand img{
     opacity: 0.8;
 }
 .jumbotron{
-    background-image: url(tim-gouw-68319-unsplash.jpg);
+    background-image: url(zachary-nelson-192289-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 450px;
+    height: 500px;
     padding-top: 100px;
 }
 #jumboheader {
     color: white; 
     letter-spacing: 2px;
     text-transform: uppercase;
-    text-shadow: 3px 2px #7058a7;
+    text-shadow: 4px 3px #7058a7;
     font-size: 48px; 
     font-weight: bold;
+    padding: 70px 0;
+ 
 }
 .navbar-nav {
     font-size: 18px;
