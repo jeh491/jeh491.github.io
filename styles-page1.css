@@ -6,27 +6,20 @@ a.navbar-brand img{
     opacity: 0.8;
 }
 .jumbotron{
-    background-image: url(Glub2.jpg);
+    background-image: url(tim-gouw-68319-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 550px;
+    height: 450px;
     padding-top: 100px;
 }
-#jumboheader{
+#jumboheader {
     color: white; 
     letter-spacing: 2px;
     text-transform: uppercase;
     text-shadow: 3px 2px #7058a7;
     font-size: 48px; 
     font-weight: bold;
-    line-height: 1.6;
-
-}
-#jumbobody{
-    color: white; 
-    font-size: 20px; 
-    font-family: 'Muli', sans-serif;
 }
 .navbar-nav {
     font-size: 18px;
@@ -60,4 +53,7 @@ a.navbar-brand img{
 }
 .pill-light{
     background-color: #f0f5f5;
+}
+.card-body{
+    padding: 20px;
 }
