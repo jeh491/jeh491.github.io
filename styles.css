@@ -24,9 +24,11 @@ a.navbar-brand img{
 
 }
 #jumbobody{
-    color: white; 
+    color: white;
     font-size: 20px; 
     font-family: 'Muli', sans-serif;
+    display: block;
+    text-shadow: 1px 2px #7058a7;
 }
 .navbar-nav {
     font-size: 18px;
