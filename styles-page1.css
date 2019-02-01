@@ -72,3 +72,17 @@ a.navbar-brand img{
 .card-header{
     background-color: #e0ccff;
 }
+.graph{
+    height: 500px;
+    text-align: center;
+    width: 100%; 
+}
+.card-body{
+    border-style: solid;
+    border-color:#f0e6ff;
+    border-width: 1px;
+    width: 100%; 
+}
+.white{
+    color:white;
+}
