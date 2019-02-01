@@ -10,7 +10,7 @@ a.navbar-brand img{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 550px;
+    height: 500px;
     padding-top: 100px;
 }
 #jumboheader{
@@ -50,16 +50,19 @@ a.navbar-brand img{
     padding: 9px;
 
 }
-.center-pill {
-    margin-left: auto;
-    margin-right: auto;
+.btn-secondary {
+    
     text-align: center;
-
+    background-color:#7058a7;
+    border-radius: 20px;
 }
-.pill-white-center:hover {
+.btn-secondary:hover {
     text-decoration: none;
     color: white;
 }
 .pill-light{
     background-color: #f0f5f5;
+}
+.center-button{
+    text-align: center;
 }
